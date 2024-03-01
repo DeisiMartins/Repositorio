@@ -1,0 +1,23 @@
+Organizar projetos
+Criar versoes
+versionamento em formato de texto
+configurar o repositorio
+
+git baseado em linux
+
+
+
+CMD tela preta
+
+1 - git config --global user.email deisiaparecida.martins@gmail.com
+
+2 - configurando usuario:  git config --global user.name DeisiMartins
+	  
+3 - Criar repositorio:	
+   cmd
+   git init  
+   pasta oculta
+	  
+4 - vinculo dpo repositorio local com a nuvem: 	 git remote add origin https://github.com/DeisiMartins/Repositorio.git	  
+5 - Enviar alteracoes locais para o remoto:      git push -u origin main
+
